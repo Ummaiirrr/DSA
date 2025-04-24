@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.h",
+              "DocumentMoniker": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T10:56:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack.cpp",
+              "ToolTip": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Stack.cpp",
+              "RelativeToolTip": "Stack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T10:56:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readme.md",
+              "DocumentMoniker": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-24T10:56:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.cpp",
+              "DocumentMoniker": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Driver.cpp",
+              "RelativeDocumentMoniker": "Driver.cpp",
+              "ToolTip": "E:\\New folder\\Data Structure \u0026 Algorithms Lab\\DSA-main\\DSA-LAB-2\\Driver.cpp",
+              "RelativeToolTip": "Driver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T10:56:19.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
